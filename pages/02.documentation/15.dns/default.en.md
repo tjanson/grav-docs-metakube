@@ -13,7 +13,7 @@ Kubernetes has its own internal DNS service to provide service discovery between
 
 ## CoreDNS
 
-In MetaKube clusters we provide a highly available installation of [CoreNDS](https://coredns.io/) as a cluster internal DNS solution.
+In MetaKube clusters we provide a highly available installation of [CoreDNS](https://coredns.io/) as a cluster internal DNS solution.
 
 ## Nodelocal DNS Cache
 
