@@ -13,7 +13,7 @@ Helm is a package manager for Kubernetes which makes it easy to install common a
 
 ## Installation
 
-All MetaKube clusters come pre-configured with Helm out of the box. You just have to install the helm command line client to start deploying Helm charts. See the official Helm [installation guide](https://docs.helm.sh/using_helm/#installing-the-helm-client) for instructions for your operation system.
+All MetaKube clusters come pre-configured with Helm out of the box. You just have to install the helm command line client to start deploying Helm charts. See the official Helm [installation guide](https://helm.sh/docs/intro/install/) for instructions for your operation system.
 
 ## Usage
 
@@ -62,4 +62,4 @@ To delete WordPress again, you can run:
 helm del --purge my-wordpress
 ```
 
-For more information on how to use helm have a look at the [documentation](https://docs.helm.sh/using_helm/).
+For more information on how to use helm have a look at the [documentation](https://helm.sh/docs/intro/using_helm/).
